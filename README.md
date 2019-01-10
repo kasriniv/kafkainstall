@@ -2,7 +2,7 @@
 
 #To track install steps for AMQ streams
 
- oc login https://master.kasriniv-8dab.openshiftworkshop.com:443 --token=R-WUkT0EKtkgWuMonD43iR6d51tVQLt9WAG2XrROkJ4
+ oc login https://master.<blah>.openshiftworkshop.com:443 --token=blah
  
  
  oc new-project myproject
